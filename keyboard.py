@@ -5,7 +5,7 @@ START_KEYBOARD = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton('Join🔮', GITHUB_URL),
-            InlineKeyboardButton('Master😎, DEV_URL)   
+            InlineKeyboardButton('Master😎', DEV_URL)   
         ]
     ]
 )
